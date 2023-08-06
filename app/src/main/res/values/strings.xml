@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo08_Notification</string>
+    <string name="btn_notif">Notif</string>
+</resources>
